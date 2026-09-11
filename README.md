@@ -1,116 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mahfouf Amine</h1>
+# 💫 About Me:
+Passionate about computer science, always curious and learning by building things.<br>
 
-<h3 align="center">
-Computer Science Student | SQL & Databases | Web Development | Building Practical Projects
-</h3>
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahfouf.amine@outlook.fr) 
 
-## 👨‍💻 About Me
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AmineDev-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AmineDev-bot&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmineDev-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🎓 Computer Science Student
-- 🗄️ Interested in SQL, databases and database administration
-- 💻 Interested in web development and practical software projects
-- 🔨 I enjoy learning by building practical projects
-- 🎯 Working toward becoming a Junior Database Administrator
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmineDev-bot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 🛠️ Languages & Technologies
-
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-         width="50" height="50" alt="MySQL"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-         width="50" height="50" alt="PostgreSQL"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-         width="50" height="50" alt="Git"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-         width="50" height="50" alt="Linux"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
-         width="50" height="50" alt="HTML5"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
-         width="50" height="50" alt="CSS3"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-         width="50" height="50" alt="PHP"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-         width="50" height="50" alt="JavaScript"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-         width="50" height="50" alt="Python"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-         width="50" height="50" alt="Java"/>
-  </a>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=aminedev-bot&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🚀 Projects
-
-### 🗄️ Database Projects
-
-Projects focused on SQL, database design, MySQL and PostgreSQL.
-
-### 🌐 Web Projects
-
-Web applications and interfaces using HTML, CSS, JavaScript and PHP.
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:mahfoufamine010@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-mahfoufamine010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
