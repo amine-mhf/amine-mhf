@@ -1,13 +1,24 @@
 name: GitHub Snake Game
+
+
+
 on:
+
+  # Schedule the workflow to run daily at midnight UTC
+
   schedule:
 
     - cron: "0 0 * * *"
 
 
+
+  # Allow manual triggering of the workflow
+
   workflow_dispatch:
 
 
+
+  # Trigger the workflow on pushes to the main branch
 
   push:
 
@@ -29,7 +40,7 @@ jobs:
 
     steps:
 
-     
+      # Step 1: Checkout the repository
 
       - name: Checkout Repository
 
@@ -37,7 +48,7 @@ jobs:
 
 
 
-
+      # Step 2: Generate the snake animations
 
       - name: Generate GitHub Contributions Snake Animations
 
@@ -45,10 +56,13 @@ jobs:
 
         with:
 
-       
+          # GitHub username to generate the animation for
 
           github_user_name: ${{ github.repository_owner }}
 
+
+
+          # Define the output files and their configurations
 
           outputs: |
 
@@ -64,7 +78,8 @@ jobs:
 
 
 
-    
+      # Step 3: Deploy the generated files to the 'output' branch
+
       - name: Deploy to Output Branch
 
         uses: peaceiris/actions-gh-pages@v3
@@ -76,6 +91,8 @@ jobs:
           publish_dir: ./dist
 
           publish_branch: output
+
+          # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
 
