@@ -12,7 +12,12 @@ Passionate about computer science, always curious and learning by building thing
 ![](https://streak-stats.demolab.com/?user=AmineDev-bot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmineDev-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmineDev-bot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<div align= "center"> 
+
+  ![snake gif](https://github.com/AmineDev-bot/AmineDev-bot/blob/output/github-snake-dark.svg)
+
+</div>
+
